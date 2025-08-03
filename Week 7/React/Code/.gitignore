@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+build/
+dist/
+
+# Environment Variables
+.env
+.env.local
+
+# Logs
+logs
+*.log
+
+# Testing
+coverage/
+.nyc_output/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
